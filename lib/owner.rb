@@ -37,4 +37,4 @@ class Owner
   end
 end
 
-bill.add_pets()
+bill.add_pets(bane)
