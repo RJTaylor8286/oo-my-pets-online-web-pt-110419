@@ -38,3 +38,8 @@ class Owner
 end
 
 bill.add_pets(bane)
+bill.add_pets(jack)
+
+bane.owner.name
+jack.owner.name
+
