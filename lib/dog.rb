@@ -9,5 +9,6 @@ class Dog
     @breed = breed
   end
   
+  bane = Dog.new
   
 end
