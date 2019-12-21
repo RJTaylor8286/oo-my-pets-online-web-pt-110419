@@ -9,6 +9,7 @@ class Dog
     @breed = breed
   end
   
-  bane = Dog.new
+  bane = Dog.new("Bane")
+  
   
 end
