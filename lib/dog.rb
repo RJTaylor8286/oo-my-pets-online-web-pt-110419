@@ -10,6 +10,11 @@ class Dog
   end
   
   bane = Dog.new("Bane")
-  
-  
+  bane.name
+end
+
+  pitbull = Dog.breed("Pitbull")
+  pitbull.breed 
+  end
+
 end
